@@ -1,0 +1,108 @@
+html *{
+    font-family: "Times New Roman", Times, serif;
+}
+
+.header-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+ 
+.main-header{
+    font-size: 3em;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+
+.header-wrapper>*{
+    padding-bottom: 3px;
+}
+
+.resume-wrapper{
+    width: 8.5in;
+    height: 11in;
+}
+
+.resume{
+    background-color:   white;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.resume-header{
+    /* font-size: 1.4em; original*/
+    font-size: 1.2em;
+    border-bottom: solid 2px black;
+    margin-bottom: 10px;
+    margin-top: 6px;
+}
+
+.resume-main{
+    font-weight: bold;
+    /* font-size: 1.3em; */
+    font-size: 1.1em;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+ul {
+    display: block;
+    margin-top: 3px;
+    margin-bottom: 8px;
+}
+
+li{
+    padding-bottom: 1px;
+}
+
+#grad{
+    color: rgb(100, 100, 100);
+}
+
+.employer{
+    font-style: italic;
+    color: rgb(100, 100, 100);
+    font-size: 0.8em;
+    padding-left: 10px;
+}
+
+.skill-list{
+    padding-left: 10px;
+    padding-bottom: 2px;
+    line-height: 25px;
+}
+
+#gpa{
+    color: rgb(100, 100, 100);
+    padding-left: 30px;
+}
+
+/* .skill-list{
+    display: grid;
+    grid-template-rows: 33% 33% 33%;
+    grid-template-columns: 33%, 33%, 33%;
+    row-gap: 2px;
+}
+
+#sql{
+    grid-row: 1/2;
+    grid-column: 1/2;
+}
+
+#java{
+    grid-row: 1/2;
+    grid-column: 2/3;
+}
+
+#c{
+    grid-row: 1/2;
+    grid-column: 3/4;
+}
+
+.skill-list>span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+} */
+
+
