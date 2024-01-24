@@ -76,33 +76,9 @@ li{
     padding-left: 30px;
 }
 
-/* .skill-list{
-    display: grid;
-    grid-template-rows: 33% 33% 33%;
-    grid-template-columns: 33%, 33%, 33%;
-    row-gap: 2px;
-}
-
-#sql{
-    grid-row: 1/2;
-    grid-column: 1/2;
-}
-
-#java{
-    grid-row: 1/2;
-    grid-column: 2/3;
-}
-
-#c{
-    grid-row: 1/2;
-    grid-column: 3/4;
-}
-
-.skill-list>span{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-   
+/* a{
+    color: darkblue;
 } */
+
 
 
